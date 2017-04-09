@@ -31,7 +31,7 @@ public class CheckBoxActivity extends Activity {
             }
         });
 
-                // Get a reference to the Hide CheckBox Button
+        // Get a reference to the Hide CheckBox Button
         final Button button = (Button) findViewById(R.id.button);
         button.setOnClickListener(new OnClickListener() {
             @Override
